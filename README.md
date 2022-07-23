@@ -1,0 +1,2 @@
+# LtHash
+Implemented LiteHash algorithm
