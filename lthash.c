@@ -9,6 +9,8 @@
 //       Implemented LiteHash algorithm
 //   --------------------------------------
 
+#include <string.h>
+
 int lthash(char* c) {
     int d=0;
     for(int i=0,e=2;i<strlen(c);i++,e++) {
